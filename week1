@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> registration form </title>
+</head>
+<body>
+<img src="cyber.jpg">
+<form>
+<h1> registration form </h1>
+<h2> EVENT ON CYBER SECURITY </h2>
+first name
+<input type="text" name="first name"></br>
+second name
+<input type="text" name="second name"></br>
+email
+<input type="text" name="email"></br>
+roll number
+<input typr="text" name="roll number"></br>
+<input type="submit" name="submit">
+</form>
+</body>
+</html>
+
